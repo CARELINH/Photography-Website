@@ -1,0 +1,17 @@
+{
+  "name": "photography-site-master",
+  "version": "1.0.0",
+  "description": "Hi there! This is a simple and multipage photography website.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "carelin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.3.1",
+    "path": "^0.12.7"
+  }
+}
